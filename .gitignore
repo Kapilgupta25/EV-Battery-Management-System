@@ -1,0 +1,11 @@
+# MATLAB temporary and generated files
+slprj/
+codegen/
+*.slxc
+*.asv
+*.autosave
+*.slx.autosave
+*.mdl.autosave
+
+# Generated simulation results
+*_test_results.mat
